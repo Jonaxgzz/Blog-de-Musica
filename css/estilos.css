@@ -1,0 +1,114 @@
+.blogdemusica-body {
+  background: url(../img/rocknroll.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.topbar {
+  background-color: lightgray;
+  height: 10%;
+  border: none;
+}
+#music_logo {
+  height: 100px;
+  padding-left: 30px;
+}
+#social {
+  float: right;
+}
+.social a {
+  font-size: 2em;
+  padding: 1rem;
+}
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-twitter {
+  color: #00aced;
+}
+.fa-instagram {
+  color: #517fa4;
+}
+.fa-youtube {
+  color: #bb0000;
+}
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {
+  color: #d5d5d5;
+}
+
+.navbar {
+  background-color: lightgray;
+  height: 10%;
+  border: none;
+}
+.navbar-nav {
+  text-align: justify;
+}
+
+#blog {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+#museimage {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#u2image {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#contenido {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#busqueda {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+#buscar {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+#comentario {
+  padding: 20px;
+}
+#inputlg {
+  margin-top: 17px;
+}
+#post {
+  margin: auto;
+}
+
+footer {
+  background: black;
+  color: #d5d5d5;
+  font-size: .6rem;
+  padding-top: 2rem;
+}
+footer h5 {
+  font-size: 1.2rem;
+}
+footer p {
+  margin: 0px;
+}
+hr.light {
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+hr.light-100 {
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
